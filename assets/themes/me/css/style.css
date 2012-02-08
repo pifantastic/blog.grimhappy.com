@@ -135,12 +135,10 @@ article {
       margin: 5px 0;
     }
 
-  article p, article ul li {
+  article p {
     font-size: 16px;
     line-height: 29px;
-  }
-
-  article p {
+    /* font-family: 'Signika', sans-serif; */
     text-align: justify;
   }
 
