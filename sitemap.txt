@@ -1,7 +1,7 @@
 
-http://blog.grimhappy.com//about.html
-http://blog.grimhappy.com//archive.html
-http://blog.grimhappy.com//index.html
-http://blog.grimhappy.com//sitemap.txt
+http://blog.grimhappy.com/about.html
+http://blog.grimhappy.com/archive.html
+http://blog.grimhappy.com/index.html
+http://blog.grimhappy.com/sitemap.txt
 
-http://blog.grimhappy.com//2012/02/07/til-top-100-of-2011-wilhelm-scream
+http://blog.grimhappy.com/2012/02/07/til-top-100-of-2011-wilhelm-scream
